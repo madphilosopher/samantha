@@ -1,4 +1,4 @@
-% Several Factors
+# Several Factors
 
     From: https://security.stackexchange.com/questions/47475/testing-a-hardware-random-number-generator
     User: https://security.stackexchange.com/users/5400/polynomial

@@ -1,4 +1,4 @@
-% Read permissions for /dev/hwrng
+# Read permissions for /dev/hwrng
 
 `/dev/hwrng` is created at boot time with these default permissions:
 
@@ -14,7 +14,7 @@ So, to allow all users to read from this device, do *one* of the following:
 
         @reboot         root    chmod a+r /dev/hwrng
 
-# Acknowledgements
+## Acknowledgements
 
     From: https://sites.google.com/site/astudyofentropy/project-definition/raspberry-pi-internal-hardware-random-number-generator
     Date: 2020-03-22

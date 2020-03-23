@@ -1,4 +1,4 @@
-% "Well, that was unexpected...": The Raspberry Pi's Hardware Random Number Generator
+# "Well, that was unexpected...": The Raspberry Pi's Hardware Random Number Generator
 
     From: http://scruss.com/blog/2013/06/07/well-that-was-unexpected-the-raspberry-pis-hardware-random-number-generator/
     Date: 2020-03-22
